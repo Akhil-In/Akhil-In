@@ -1,5 +1,5 @@
 ### Hi there 👋
-Myself Akhil 👨, a Software and Full Stack Web Developer.
+Myself Akhil 👨, a Software Engineer and Full Stack Web Developer.
 
 
 <!--
